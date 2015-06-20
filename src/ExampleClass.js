@@ -1,6 +1,6 @@
 // anonymous class
 export default class {
     constructor(){
-        this.name = "this is example class";
+        this.description = "this is example class";
     }
 }
