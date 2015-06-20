@@ -1,0 +1,29 @@
+{
+  "name": "esdoc-no-class-name-issue",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/esdoc-no-class-name-issue.git"
+  },
+  "author": "azu",
+  "email": "azuciao@gmail.com",
+  "homepage": "https://github.com/azu/esdoc-no-class-name-issue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/esdoc-no-class-name-issue/issues"
+  },
+  "version": "1.0.0",
+  "description": "poc",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "doc": "esdoc -c esdoc.json"
+  },
+  "keywords": [
+    "esdoc"
+  ],
+  "devDependencies": {
+    "esdoc": "^0.1.2"
+  }
+}
